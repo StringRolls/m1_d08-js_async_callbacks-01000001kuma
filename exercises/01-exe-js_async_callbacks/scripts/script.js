@@ -7,7 +7,7 @@ function print() {
     console.log(4);
   }
   
-  print(); 
+  print(); // 1 4 3 2
   
   // ------------------------------------------------------------------------
   
@@ -18,3 +18,4 @@ function print() {
   // - Forevery number divisible for 3 and 5 it prints BOOM BANG!! 
   
   
+for( let time of blast)
